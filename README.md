@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/sai14375/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0257-binary-tree-paths](https://github.com/sai14375/LEETCODE/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
