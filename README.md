@@ -86,11 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sai14375/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sai14375/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sai14375/LEETCODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0918-maximum-sum-circular-subarray](https://github.com/sai14375/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sai14375/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sai14375/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/sai14375/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -110,4 +112,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sai14375/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/sai14375/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/sai14375/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/sai14375/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
