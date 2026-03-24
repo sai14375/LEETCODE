@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sai14375/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [1603-design-parking-system](https://github.com/sai14375/LEETCODE/tree/master/1603-design-parking-system) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/sai14375/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/sai14375/LEETCODE/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/sai14375/LEETCODE/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
