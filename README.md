@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/sai14375/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0257-binary-tree-paths](https://github.com/sai14375/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0459-repeated-substring-pattern](https://github.com/sai14375/LEETCODE/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/sai14375/LEETCODE/tree/master/0796-rotate-string) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -139,4 +140,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/sai14375/LEETCODE/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/sai14375/LEETCODE/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
