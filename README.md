@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sai14375/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sai14375/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sai14375/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [1472-design-browser-history](https://github.com/sai14375/LEETCODE/tree/master/1472-design-browser-history) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sai14375/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sai14375/LEETCODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sai14375/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+| [1472-design-browser-history](https://github.com/sai14375/LEETCODE/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-design-underground-system](https://github.com/sai14375/LEETCODE/tree/master/1396-design-underground-system) |
+| [1472-design-browser-history](https://github.com/sai14375/LEETCODE/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/sai14375/LEETCODE/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -159,4 +162,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sai14375/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sai14375/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/sai14375/LEETCODE/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/sai14375/LEETCODE/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/sai14375/LEETCODE/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
