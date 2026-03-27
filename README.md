@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sai14375/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sai14375/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0705-design-hashset](https://github.com/sai14375/LEETCODE/tree/master/0705-design-hashset) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sai14375/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1396-design-underground-system](https://github.com/sai14375/LEETCODE/tree/master/1396-design-underground-system) |
 ## Sorting
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sai14375/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sai14375/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sai14375/LEETCODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0705-design-hashset](https://github.com/sai14375/LEETCODE/tree/master/0705-design-hashset) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sai14375/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [1472-design-browser-history](https://github.com/sai14375/LEETCODE/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/sai14375/LEETCODE/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/sai14375/LEETCODE/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/sai14375/LEETCODE/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/sai14375/LEETCODE/tree/master/1603-design-parking-system) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/sai14375/LEETCODE/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/sai14375/LEETCODE/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -174,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/sai14375/LEETCODE/tree/master/1472-design-browser-history) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/sai14375/LEETCODE/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
