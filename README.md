@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sai14375/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sai14375/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sai14375/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1396-design-underground-system](https://github.com/sai14375/LEETCODE/tree/master/1396-design-underground-system) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/sai14375/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/sai14375/LEETCODE/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/sai14375/LEETCODE/tree/master/0796-rotate-string) |
+| [1396-design-underground-system](https://github.com/sai14375/LEETCODE/tree/master/1396-design-underground-system) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1396-design-underground-system](https://github.com/sai14375/LEETCODE/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/sai14375/LEETCODE/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
