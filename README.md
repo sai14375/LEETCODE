@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/sai14375/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0705-design-hashset](https://github.com/sai14375/LEETCODE/tree/master/0705-design-hashset) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sai14375/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0997-find-the-town-judge](https://github.com/sai14375/LEETCODE/tree/master/0997-find-the-town-judge) |
 | [1396-design-underground-system](https://github.com/sai14375/LEETCODE/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/sai14375/LEETCODE/tree/master/1600-throne-inheritance) |
 ## Sorting
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sai14375/LEETCODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0705-design-hashset](https://github.com/sai14375/LEETCODE/tree/master/0705-design-hashset) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sai14375/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+| [0997-find-the-town-judge](https://github.com/sai14375/LEETCODE/tree/master/0997-find-the-town-judge) |
 | [1472-design-browser-history](https://github.com/sai14375/LEETCODE/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
 |  |
@@ -195,5 +197,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/sai14375/LEETCODE/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sai14375/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
