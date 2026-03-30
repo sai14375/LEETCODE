@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sai14375/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sai14375/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/sai14375/LEETCODE/tree/master/1600-throne-inheritance) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sai14375/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sai14375/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/sai14375/LEETCODE/tree/master/0112-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sai14375/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sai14375/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -186,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/sai14375/LEETCODE/tree/master/0705-design-hashset) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/sai14375/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/sai14375/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
