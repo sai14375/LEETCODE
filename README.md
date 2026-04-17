@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sai14375/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sai14375/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sai14375/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Array
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sai14375/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0695-max-area-of-island](https://github.com/sai14375/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/sai14375/LEETCODE/tree/master/0705-design-hashset) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sai14375/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sai14375/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/sai14375/LEETCODE/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/sai14375/LEETCODE/tree/master/0997-find-the-town-judge) |
