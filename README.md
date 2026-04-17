@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/sai14375/LEETCODE/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/sai14375/LEETCODE/tree/master/0997-find-the-town-judge) |
 | [1472-design-browser-history](https://github.com/sai14375/LEETCODE/tree/master/1472-design-browser-history) |
+| [1480-running-sum-of-1d-array](https://github.com/sai14375/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -228,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sai14375/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sai14375/LEETCODE/tree/master/0210-course-schedule-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/sai14375/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
